@@ -1,5 +1,5 @@
 {
-  "name": "angular-will-paginate",
+  "name": "vin65-angular-will-paginate",
   "version": "0.1.0",
   "dependencies": {
     "angular": "~1.2.4"
@@ -8,19 +8,15 @@
     "angular-mocks": "~1.2.4",
     "jquery": "~2.0.3"
   },
-  "homepage": "https://github.com/heavysixer/angular-will-paginate",
+  "homepage": "https://github.com/Vin65/angular-will-paginate",
   "authors": [
-    "heavysixer <info@humansized.com>"
+    "heavysixer <info@humansized.com>",
+    "nicosuria <nico@vin65.com>"
   ],
-  "description": "AngularJS directive that paginates a will_paginate collection",
+  "description": "Vin65 Fork of heavysixer's AngularJS directive that paginates a will_paginate collection",
   "main": "will_paginate-angular.js",
   "keywords": [
-    "will_paginate",
-    "will-paginate",
-    "willpaginate",
-    "angular",
-    "pagination",
-    "angularjs"
+    "vin65_will_paginate",
   ],
   "license": "MIT",
   "ignore": [
