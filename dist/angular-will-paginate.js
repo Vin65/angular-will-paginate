@@ -107,6 +107,12 @@
             $scope.render();
           }
         });
+        $scope.$watch('params', function (newVal) {
+          if (typeof newVal === 'undefined') {
+            return;
+          }
+          $scope.render();
+        });
         $scope.$watch('params.currentPage', function (newVal) {
           if (typeof newVal === 'undefined') {
             return;
