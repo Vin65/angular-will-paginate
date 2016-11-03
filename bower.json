@@ -16,7 +16,7 @@
   "description": "Vin65 Fork of heavysixer's AngularJS directive that paginates a will_paginate collection",
   "main": "dist/will_paginate-angular.js",
   "keywords": [
-    "vin65_will_paginate",
+    "vin65_will_paginate"
   ],
   "license": "MIT",
   "ignore": [
