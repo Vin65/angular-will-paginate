@@ -1,6 +1,6 @@
 {
   "name": "vin65-angular-will-paginate",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "dependencies": {
     "angular": "~1.5"
   },
@@ -16,7 +16,7 @@
   "description": "Vin65 Fork of heavysixer's AngularJS directive that paginates a will_paginate collection",
   "main": [
     "dist/angular-will-paginate-angular.js",
-    "dist/angular-will-paginate-angular.min.js",
+    "dist/angular-will-paginate-angular.min.js"
   ],
   "keywords": [
     "vin65_will_paginate"
