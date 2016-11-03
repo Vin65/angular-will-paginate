@@ -1,6 +1,6 @@
 {
   "name": "vin65-angular-will-paginate",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "dependencies": {
     "angular": "~1.5"
   },
